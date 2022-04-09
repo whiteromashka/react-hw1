@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 
 import {usersService} from "../../services";
-import {User} from '../User/User';
+import {User} from '../user/User';
 
 export const Users = () => {
     const [users, setUsers] = useState(null);
