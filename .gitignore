@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+node_modules
+.idea
+package-lock.json
+
 # testing
 /coverage
 
